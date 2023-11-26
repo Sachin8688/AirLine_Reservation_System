@@ -329,6 +329,7 @@ public void AutoID(){
             String FirstName=firstname.getText();
                  String LastName=lastname.getText(); 
                  String Passport=passport.getText();
+                 String NationalID=nationalid.getText();
                  String Address=address.getText();
                  String Contact=contact.getText();
                  String Gender="";
@@ -351,7 +352,7 @@ public void AutoID(){
        pre.setString(2,FirstName);
         pre.setString(3,LastName);
          pre.setString(4,Passport);
-          pre.setString(5,Address);
+          pre.setString(5,NationalID);
            pre.setString(6,Contact);
             pre.setString(7,Address);
              pre.setString(8,Gender);
