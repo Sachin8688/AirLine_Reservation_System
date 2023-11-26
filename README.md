@@ -6,11 +6,11 @@
 * at the end we can get our confirmed flight ticket
 
 ## Features
-* It has so many tabs fo various functionalities
+* It has so many tabs for various functionalities
 * we can add customer details by clicking add customer tab
 * similarly we can search for customer by using customer id and can delete that customer if we want
 * we can add new flight details by clicking add flight tab
-* fo booking flight ticket we have book flight tab
+* for booking flight ticket we have book flight tab
 * after succesful booking we can view our confirmed ticket on view ticket tab
 
 
